@@ -1,0 +1,149 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#head{
+    width: 25%;
+    min-height: 300px;
+    margin: auto;
+    background-color: lightgreen;
+    border-bottom: 2px solid lightgrey ;
+}
+#mainpart{
+    width: 25%;
+    margin: auto;
+    padding: 0;
+    min-height: 400px;
+    background-color: whitesmoke;
+}
+#logoweather{
+    width: 110px;
+    position: absolute;
+    left: 701px;
+    top: 55px;
+
+}
+#now{
+    color: black;
+    font-size: 33px;
+    font-family: "Century Gothic";
+    font-weight: bolder;
+    position: absolute;
+    left: 723px;
+    top:125px;
+}
+#celsius{
+    color: #4162f4;
+}
+#windlogo{
+    width: 25px;
+margin-left: 20px;
+}
+#windlogo2{
+    width: 25px;
+    margin-left: 20px;
+
+}
+#wind{
+     width:90px;
+     font-family: "Century Gothic";
+     font-size: 14px;
+     position: absolute;
+     top:230px;
+     left: 590px;
+ }
+#wind2{
+    width:90px;
+    font-family: "Century Gothic";
+    font-size: 14px;
+    position: absolute;
+    top:234px;
+    left: 861px;
+}
+
+ul{
+   list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li {
+    height: 60px;
+    line-height: 40px;
+    border-bottom: 1px solid grey;
+
+}
+.datatime {
+    position: absolute;
+    font-family: "Century Gothic";
+    font-size: 14px;
+    left: 580px;
+    top:314px;
+}
+.logo1{
+    position: absolute;
+    width: 40px;
+    left: 740px;
+    top:314px;
+}
+.weather{
+    font-family: "Century Gothic";
+    font-size: 15px;
+    position: absolute;
+    left: 875px;
+    top: 314px;
+}
+.datatime2 {
+    position: absolute;
+    font-family: "Century Gothic";
+    font-size: 14px;
+    left: 580px;
+    top:373px;
+}
+.logo2{
+    position: absolute;
+    width: 40px;
+    left: 740px;
+    top:373px;
+}
+.weather2{
+    font-family: "Century Gothic";
+    font-size: 15px;
+    position: absolute;
+    left: 875px;
+    top: 374px;
+}
+.datatime3 {
+    position: absolute;
+    font-family: "Century Gothic";
+    font-size: 14px;
+    left: 580px;
+    top:434px;
+}
+.logo3{
+    position: absolute;
+    width: 40px;
+    left: 740px;
+    top:434px;
+}
+.weather3{
+    font-family: "Century Gothic";
+    font-size: 15px;
+    position: absolute;
+    left: 875px;
+    top: 435px;
+}
+#geo{
+    font-family: "Century Gothic";
+    font-size: 13px;
+    position: absolute;
+    left: 580px;
+    top: 0;
+}
+
+#datahead{
+    font-family: "Century Gothic";
+    font-size: 13px;
+    position: absolute;
+    left: 835px;
+    top: 0;
+}
